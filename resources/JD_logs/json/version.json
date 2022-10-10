@@ -1,0 +1,5 @@
+{
+    "date": "Feb 1, 2022",
+    "version": "2.1.7.6",
+    "changelog": "Fixed:\n• xPlayer error on join with ESX info enabled.\n\nRemoved:\n• Esx player info on join logs (player doesn't exist yet so can't pull info)."
+}

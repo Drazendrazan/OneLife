@@ -1,0 +1,60 @@
+{
+    "locals": "fr",
+
+    "EnableAcFunctions": true,
+
+    "allLogs": true,
+    "postals": true,
+    "weaponLog": true,
+    "inlineField": true,
+
+    "playerId": true,
+    "steamId": true,
+    "steamUrl": true,
+    "discordId": true,
+    "license": true,
+    "license2": false,
+    "ip": false,
+    "playerPing": true,
+
+    "Session": true,
+    "PlayTime": true,
+    "playerHealth": true,
+    "playerArmor": true,
+    "timestamp": true,
+
+    "forceSteam": false,
+
+    "nameChangePerms": "jd.staff",
+    "logHistoryPerms": "jd.staff",
+    "screenshotPerms": "jd.staff",
+    "AntiCheatBypass": "jd.staff",
+
+    "DiscordUpdateNotify": true,
+
+    "userName": "OneLife Logs",
+    "avatar": "https://cdn.discordapp.com/attachments/920686411189989426/981294724067512390/logo_onelife2.png",
+    "communityName": "OneLife",
+    "communityLogo": "https://cdn.discordapp.com/attachments/920686411189989426/981294724067512390/logo_onelife2.png",
+    "footerText": "2022 © DoK - OneLife",
+    "footerIcon": "https://cdn.discordapp.com/attachments/920686411189989426/981294724067512390/logo_onelife2.png",
+
+    "PrefechGlobalBans": true,
+    "GlobalBanBypass": [],
+
+    "WeaponsNotLogged": [
+        "WEAPON_SNOWBALL",
+        "WEAPON_FIREEXTINGUISHER",
+        "WEAPON_PETROLCAN"
+    ],
+
+    "Commands": {
+        "logs": ["logs", "lh"],
+        "screenshot": ["screenshot", "ss"]
+    },
+
+    "useESX": true,
+    "esxName": true,
+    "esxJob": true,
+    "esxMoney": true
+}

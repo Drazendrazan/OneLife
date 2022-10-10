@@ -1,0 +1,198 @@
+{
+    "all": { 
+        "webhook": "https://discord.com/api/webhooks/981295281255632957/gCyTN0czoVR7ZeIUVWIkNFdm4ej8QJDO72Ijm5PHeTlhkpJ4TJ8v_2uUkNHO1TvoIdMA",
+        "color": "#A1A1A1",
+        "embed": true
+    },
+    "system": {
+        "webhook": "DISCORD_WEBHOOK"
+    },
+    "imageStore": {
+        "webhook": "DISCORD_WEBHOOK"
+    },
+	"chat": { 
+        "webhook": "https://discord.com/api/webhooks/981295371802267648/JC6XhL5FlLmZlQX_1XlneDesD8qN4Kv3Zj-08EtCZZ3yqV7G-Jnpi-kDDMwS3YmoWmgZ", 
+        "icon": "💬", 
+        "color": "#A1A1A1",
+        "logHistory": true,
+        "embed": true,
+        "Hide": {
+            "PlayerID": false,
+            "SteamID": false,
+            "SteamURL": false,
+            "Postal": false,
+            "DiscordID": false,
+            "License": false,
+            "License2": true,
+            "IP": true,
+            "PlayTime": false,
+            "playerPing": true
+        }
+    },
+	"joins": { 
+        "webhook": "https://discord.com/api/webhooks/981295459517747230/qCVqnhRBmm7njgI_iF7xaInKu90-zfAbOwpmA3g8Jf3wSe9PVoKU0NAc7tfpcwGu7ITU", 
+        "icon": "📥", 
+        "color": "#3AF241",
+        "embed": true,
+        "Hide": {
+            "PlayerID": false,
+            "SteamID": false,
+            "SteamURL": false,
+            "Postal": false,
+            "DiscordID": false,
+            "License": false,
+            "License2": true,
+            "IP": true,
+            "PlayTime": false,
+            "playerPing": true
+        }
+    },
+	"leaving": { 
+        "webhook": "https://discord.com/api/webhooks/981295609468305418/f-Db5K8q_3xR3HSDaPiBlLDZp35EgM7Aq1FpBQL-pPJHNkXybGCvwymdleMK6VqHK4VW", 
+        "icon": "📤", 
+        "color": "#F23A3A",
+        "embed": true,
+        "Hide": {
+            "PlayerID": false,
+            "SteamID": false,
+            "SteamURL": false,
+            "Postal": false,
+            "DiscordID": false,
+            "License": false,
+            "License2": true,
+            "IP": true,
+            "PlayTime": false,
+            "playerPing": true
+        }
+    },
+	"deaths": { 
+        "webhook": "https://discord.com/api/webhooks/981295700346282025/Ky6E9b0AiOI6-LEp6W9gsgQM6ndp9EQnF7-CAhCrmprzk_aFkR-QMqsgHetWdfNBMBUJ", 
+        "icon": "💀", 
+        "color": "#000000",
+        "logHistory": true,
+        "embed": true,
+        "Hide": {
+            "PlayerID": false,
+            "SteamID": false,
+            "SteamURL": false,
+            "Postal": false,
+            "DiscordID": false,
+            "License": false,
+            "License2": true,
+            "IP": true,
+            "PlayTime": false,
+            "playerPing": true
+        }
+    },
+	"shooting": { 
+        "webhook": "https://discord.com/api/webhooks/981295784161050694/uaofI75lI3zRipgyPNbfh6X3R8sTVQs3qZVbmOOsjNaUVyW7XKeBQtEYsJ1bPnNiMYGt", 
+        "icon": "🔫", 
+        "color": "#2E66F2",
+        "logHistory": false,
+        "embed": true,
+        "Hide": {
+            "PlayerID": false,
+            "SteamID": false,
+            "SteamURL": false,
+            "Postal": false,
+            "DiscordID": false,
+            "License": false,
+            "License2": true,
+            "IP": true,
+            "PlayTime": false,
+            "playerPing": true
+        }
+    },
+	"resources": { 
+        "webhook": "https://discord.com/api/webhooks/981295948556816414/Rc3BnvymHbRIo7mbdBShuDPsvIcR3umxmBGBTLqqmvawt1bmZlWd28Fy6ZQcEJGq4R5p", 
+        "icon": "🔧", 
+        "color": "#EBEE3F",
+        "embed": true,
+        "Hide": {
+            "PlayerID": false,
+            "SteamID": false,
+            "SteamURL": false,
+            "Postal": false,
+            "DiscordID": false,
+            "License": false,
+            "License2": true,
+            "IP": true,
+            "PlayTime": false,
+            "playerPing": false
+        }
+    },
+    "nameChange": { 
+        "webhook": "https://discord.com/api/webhooks/981296043549413457/cpGW5PdLCkrPyOKmuEWB3JurT8fZDDolwz6MwdVrFYCyy6Peyn-LArfpshHSjIw8vMOJ", 
+        "icon": "⚠", 
+        "color": "#03FC98",
+        "embed": true,
+        "Hide": {
+            "PlayerID": false,
+            "SteamID": false,
+            "SteamURL": false,
+            "Postal": false,
+            "DiscordID": false,
+            "License": false,
+            "License2": true,
+            "IP": true,
+            "PlayTime": false,
+            "playerPing": true
+        }
+    },
+    "explosion": {
+        "webhook": "https://discord.com/api/webhooks/981296119772487790/jyFi3wnYWpddIt86-9TCZC3yaRZ7C4kGRTd-2_dC_7UpxTMf-2FOyP-CzTwhc2IOMlxU", 
+        "icon": "🧨", 
+        "color": "#03FC98",
+        "embed": true,
+        "Hide": {
+            "PlayerID": false,
+            "SteamID": false,
+            "SteamURL": false,
+            "Postal": false,
+            "DiscordID": false,
+            "License": false,
+            "License2": true,
+            "IP": true,
+            "PlayTime": false,
+            "playerPing": true
+        }
+    },
+    "screenshot": { 
+        "webhook": "DISCORD_WEBHOOK", 
+        "icon": "📸", 
+        "color": "#A1A1A1",
+        "logHistory": false,
+        "embed": true,
+        "Hide": {
+            "PlayerID": false,
+            "SteamID": false,
+            "SteamURL": false,
+            "Postal": false,
+            "DiscordID": false,
+            "License": false,
+            "License2": false,
+            "IP": false,
+            "PlayTime": false,
+            "playerPing": false
+        }
+    },
+    "AntiCheat": {
+        "webhook": "DISCORD_WEBHOOK",
+        "icon": "⚠", 
+        "color": "#A1A1A1",
+        "logHistory": false,
+        "embed": true,
+        "Hide": {
+            "PlayerID": false,
+            "SteamID": false,
+            "SteamURL": false,
+            "Postal": false,
+            "DiscordID": false,
+            "License": false,
+            "License2": false,
+            "IP": false,
+            "PlayTime": false,
+            "playerPing": false
+        }
+    }
+}

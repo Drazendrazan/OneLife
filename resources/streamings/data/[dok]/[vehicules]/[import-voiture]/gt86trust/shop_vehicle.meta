@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShopVehicleDataArray>
+	<Vehicles>
+	<Item>
+		<lockHash>CU_VEH_gt86trust</lockHash>
+		<modelNameHash>gt86trust</modelNameHash>
+		<cost value="100"/>
+		<textLabel>gt86trust</textLabel>
+		<textLabel></textLabel>
+	</Item>
+	</Vehicles>
+</ShopVehicleDataArray>
